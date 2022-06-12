@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zkjZIMV4o29KvJlmpbtl72YfveDm5w46u623+GjBbLTv4OuB+j4YMdGUthXApJ2fDD9sPdg0Xpl+Pun6gj7m0g==",
+  "dgSpecHash": "EQ9ZbNOdxhd5qaiungCeO3oY8Kgyel4DG4VE68Tn3bwi3ngEY6r4d5+aM3BkGpceGS5tHDNln9SGvzf7FIbzzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pc\\Desktop\\API\\API\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Pc\\Desktop\\API\\TrendyolAPI\\API\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pc\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Pc\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
